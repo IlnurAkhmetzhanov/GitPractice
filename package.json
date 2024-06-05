@@ -1,0 +1,25 @@
+{
+  "name": "tspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlnurAkhmetzhanov/TsPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlnurAkhmetzhanov/TsPractice/issues"
+  },
+  "homepage": "https://github.com/IlnurAkhmetzhanov/TsPractice#readme",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.14.2",
+    "axios": "^1.7.2",
+    "typescript": "^5.4.5"
+  }
+}
